@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Ayo Isaiah <ayooluwa.com>",
+  "author": "dike goodluck",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.4",
